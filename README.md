@@ -18,13 +18,15 @@ This repository contains **public documentation, templates, and guides** for bui
 | [`docs/delegation.md`](docs/delegation.md) | How agents communicate and delegate tasks |
 | [`docs/nano-jellys.md`](docs/nano-jellys.md) | How nano jellys (mini-workers) work |
 | [`docs/best-practices.md`](docs/best-practices.md) | Writing effective agent specs |
+| [`docs/mcp-connectors.md`](docs/mcp-connectors.md) | 20 MCP connectors: ads, analytics, finance, logistics |
+| [`docs/changelog.md`](docs/changelog.md) | Version history and release notes |
 | [`templates/`](templates/) | Ready-to-use agent templates (20+) |
 | [`examples/`](examples/) | Example agent specs and skill definitions |
 
 ## Quick Start
 
-1. **Download Jellyfish** from [jellyfish.ai](https://jellyfish.ai) (Mac & Windows)
-2. **Add your API key** (OpenAI or OpenRouter) in Settings
+1. **Download Jellyfish** from [jellyfish.ai](https://jellyfish.ai) (Mac, Windows & Linux)
+2. **Add your API key** (OpenAI, Google Gemini, or OpenRouter) in Settings
 3. **Create your first agent** from a template or custom
 4. **Start the engine** and watch your team work
 
