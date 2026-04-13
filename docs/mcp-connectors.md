@@ -12,7 +12,7 @@ You can connect **multiple accounts of the same platform** (e.g. two Shopify sto
 
 | Connector | What it connects to | Required keys |
 |-----------|-------------------|---------------|
-| **Shopify** | Store monitoring: orders, inventory, products, sales | `SHOPIFY_ACCESS_TOKEN`, `SHOPIFY_STORE_URL` |
+| **Shopify** | Store monitoring: orders, inventory, products, sales | `SHOPIFY_STORE_URL`, `SHOPIFY_CLIENT_ID`, `SHOPIFY_CLIENT_SECRET` |
 | **GitHub** | Repo monitoring: PRs, issues, CI pipelines | `GITHUB_TOKEN` |
 | **Notion** | Read/write databases and pages | `NOTION_TOKEN` |
 | **Google Drive** | Search and read documents | `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `GOOGLE_REFRESH_TOKEN` |
